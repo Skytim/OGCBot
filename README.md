@@ -1,8 +1,8 @@
 # How to use
 
-Orz Bot using Microsoft Bot Framework
+OGC Bot using Microsoft Bot Framework
 
-This bot has been created using [Microsoft Bot Framework][1], and it want to folk Orz framework
+This bot has been created using Microsoft Bot Framework, and it want to folk Orz framework
 
 ## Prerequisites
 
@@ -18,13 +18,13 @@ This bot has been created using [Microsoft Bot Framework][1], and it want to fol
 - Clone the repository
 
     ```bash
-    git clone https://github.com/skytim/orzbot.git
+    git clone https://github.com/skytim/OGCBot.git
     ```
 
 - In a terminal, navigate to
 
     ```bash
-    cd orzbot
+    cd OGCBot
     ```
 
 - Install modules
@@ -36,13 +36,13 @@ This bot has been created using [Microsoft Bot Framework][1], and it want to fol
 - Start the bot
 
     ```bash
-    npm start
+    npm run start
     ```
 
 - Watch the bot when change
 
     ```bash
-    npm start
+    npm run watch
     ```
 
 ## Testing the bot using Bot Framework Emulator
